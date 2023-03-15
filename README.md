@@ -5,4 +5,4 @@ Repositori on aniré actualitzant el meu videojoc pel TF
 
 - Fletxes per moure's i saltar
 
-- x per ataca normal
+- x per atac normal
