@@ -1,8 +1,8 @@
 # TFG-Graceless-God
 Repositori on aniré actualitzant el meu videojoc pel TF
 
-Controls
+## Controls
 
-Fletxes per moure's i saltar
+- Fletxes per moure's i saltar
 
-x per ataca normal
+- x per ataca normal
