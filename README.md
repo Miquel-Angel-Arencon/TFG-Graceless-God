@@ -6,3 +6,4 @@ Repositori on aniré actualitzant el meu videojoc pel TF
 - Fletxes per moure's i saltar
 
 - x per atac normal
+- c a l'aire per atacar cap abaix
