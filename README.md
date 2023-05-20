@@ -7,3 +7,5 @@ Repositori on aniré actualitzant el meu videojoc pel TF
 
 - x per atac normal
 - c a l'aire per atacar cap abaix
+- z per esprintar
+- a per curar-se
